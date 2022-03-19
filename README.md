@@ -9,5 +9,7 @@
 #### 2. Top 10 states with respect to Total Forest Fire
 ![image](https://user-images.githubusercontent.com/83166715/159118344-03dc40a8-06a2-4511-a4d0-27e5cda6e0f2.png)
 
+#### 3. Total Forest Fire per Year
+![image](https://user-images.githubusercontent.com/83166715/159128614-520ba596-65d8-4ff7-8c45-e292f81eee07.png)
 
 <br><br> Note: You can acces the dataset from Kaggle by clicking <a href='https://www.kaggle.com/gustavomodelli/forest-fires-in-brazil/data'>here</a> 
