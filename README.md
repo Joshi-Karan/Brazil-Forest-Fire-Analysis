@@ -1,6 +1,6 @@
 # Brazil-Forest-Fire-Analysis
 #### Data Analysis of Forest Fire in Brazil from 1998 to 2017 <br> <br>
-
+![Status](https://img.shields.io/badge/Status-Completed-yellowgreen.svg)
 
 ## Final Result:
 #### 1. Total number of Forest Fire per Month 
